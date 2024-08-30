@@ -1,1 +1,2 @@
-## Écrivez votre code ici !
+print ("j'apprends python")
+15 * 12 
